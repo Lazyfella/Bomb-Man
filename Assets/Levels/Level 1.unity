@@ -12719,14 +12719,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3611970176865133577, guid: f4991db83b3eb9e4e841ef90596ee0a4, type: 3}
-      propertyPath: deathKick.x
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 3611970176865133577, guid: f4991db83b3eb9e4e841ef90596ee0a4, type: 3}
-      propertyPath: deathKick.y
-      value: 15
-      objectReference: {fileID: 0}
     - target: {fileID: 3720618969393369845, guid: f4991db83b3eb9e4e841ef90596ee0a4, type: 3}
       propertyPath: m_Name
       value: Player
@@ -12912,7 +12904,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6858568908696898503, guid: 8c20839598787ea4fadc20f14463a821, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.534368
+      value: -4.5331798
       objectReference: {fileID: 0}
     - target: {fileID: 6858568908696898503, guid: 8c20839598787ea4fadc20f14463a821, type: 3}
       propertyPath: m_LocalPosition.y
